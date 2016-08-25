@@ -1,9 +1,11 @@
 using Toybox.WatchUi as Ui;
 
 class RPSGView extends Ui.View {
+	hidden var lm;
 
     function initialize() {
         View.initialize();
+        lm = new RPSGLocationManager();
     }
 
     // Load your resources here

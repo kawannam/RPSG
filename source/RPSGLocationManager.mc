@@ -11,9 +11,11 @@ class RPSGLocationManager {
 	
 	function initialize() {
 		Position.enableLocationEvents(Position.LOCATION_CONTINUOUS, :posUpdate);
+		System.println("Location events enabled");
 	}
 	
 	function posUpdate(info) {
+		System.println("Position update:");
 		for (i = 0; i < 3; i++) {
 			if (mobs[i] == null || (dist(info, mobs[i]) > 1.0 / MAX_DIST)) {
 				mobs[i] = genMob(info);

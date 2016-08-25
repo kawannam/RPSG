@@ -1,172 +1,206 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGView.mc" lineNum="5" pc="268435456" symbol="initialize"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGView.mc" lineNum="6" pc="268435460" symbol="initialize"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGView.mc" lineNum="10" pc="268435479" symbol="onLayout"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGView.mc" lineNum="11" pc="268435483" symbol="onLayout"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGView.mc" lineNum="17" pc="268435521" symbol="onShow"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGView.mc" lineNum="21" pc="268435526" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGView.mc" lineNum="23" pc="268435530" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGView.mc" lineNum="29" pc="268435551" symbol="onHide"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGMenuDelegate.mc" lineNum="6" pc="268435556" symbol="initialize"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGMenuDelegate.mc" lineNum="7" pc="268435560" symbol="initialize"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGMenuDelegate.mc" lineNum="10" pc="268435579" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGMenuDelegate.mc" lineNum="11" pc="268435583" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGMenuDelegate.mc" lineNum="12" pc="268435594" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGMenuDelegate.mc" lineNum="14" pc="268435629" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="12" pc="268435654" symbol="initialize"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="13" pc="268435658" symbol="initialize"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="16" pc="268435692" symbol="posUpdate"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="17" pc="268435696" symbol="posUpdate"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="18" pc="268435726" symbol="posUpdate"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="19" pc="268435799" symbol="posUpdate"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="22" pc="268435832" symbol="posUpdate"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="24" pc="268435861" symbol="posUpdate"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="28" pc="268435950" symbol="dist"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="29" pc="268435954" symbol="dist"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="30" pc="268435973" symbol="dist"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="32" pc="268435986" symbol="dist"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="35" pc="268436071" symbol="genMob"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="36" pc="268436075" symbol="genMob"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="37" pc="268436142" symbol="genMob"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="38" pc="268436196" symbol="genMob"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="39" pc="268436263" symbol="genMob"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="40" pc="268436317" symbol="genMob"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="41" pc="268436355" symbol="genMob"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="43" pc="268436374" symbol="genMob"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="44" pc="268436382" symbol="genMob"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="45" pc="268436402" symbol="genMob"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="48" pc="268436456" symbol="genMob"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="51" pc="268436484" symbol="genMob"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="54" pc="268436503" symbol="genMob"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="55" pc="268436523" symbol="genMob"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="58" pc="268436577" symbol="genMob"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="61" pc="268436605" symbol="genMob"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="64" pc="268436624" symbol="genMob"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="67" pc="268436666" symbol="setPos"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="68" pc="268436670" symbol="setPos"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="69" pc="268436683" symbol="setPos"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="70" pc="268436745" symbol="setPos"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="72" pc="268436807" symbol="setPos"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="73" pc="268436818" symbol="setPos"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="76" pc="268436848" symbol="setPos"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="79" pc="268436861" symbol="setPos"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="80" pc="268436872" symbol="setPos"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="83" pc="268436902" symbol="setPos"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="86" pc="268436915" symbol="setPos"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="87" pc="268436966" symbol="setPos"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="89" pc="268437008" symbol="setPos"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="95" pc="268437057" symbol="initialize"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="96" pc="268437061" symbol="initialize"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="97" pc="268437071" symbol="initialize"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="98" pc="268437081" symbol="initialize"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="101" pc="268437092" symbol="getAttr"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="102" pc="268437096" symbol="getAttr"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="105" pc="268437152" symbol="setAttr"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="106" pc="268437156" symbol="setAttr"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="107" pc="268437172" symbol="setAttr"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="108" pc="268437188" symbol="setAttr"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="111" pc="268437205" symbol="toString"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="112" pc="268437209" symbol="toString"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGDelegate.mc" lineNum="5" pc="268437276" symbol="initialize"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGDelegate.mc" lineNum="6" pc="268437280" symbol="initialize"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGDelegate.mc" lineNum="9" pc="268437299" symbol="onMenu"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGDelegate.mc" lineNum="10" pc="268437303" symbol="onMenu"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGDelegate.mc" lineNum="11" pc="268437387" symbol="onMenu"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGApp.mc" lineNum="6" pc="268437391" symbol="initialize"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGApp.mc" lineNum="7" pc="268437395" symbol="initialize"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGApp.mc" lineNum="11" pc="268437414" symbol="onStart"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGApp.mc" lineNum="15" pc="268437419" symbol="onStop"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGApp.mc" lineNum="19" pc="268437424" symbol="getInitialView"/>
-<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGApp.mc" lineNum="20" pc="268437428" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="15" pc="268437496" symbol="initialize"/>
-<entry filename="Rez" lineNum="16" pc="268437500" symbol="initialize"/>
-<entry filename="Rez" lineNum="17" pc="268437518" symbol="initialize"/>
-<entry filename="Rez" lineNum="18" pc="268437570" symbol="initialize"/>
-<entry filename="Rez" lineNum="34" pc="268437623" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="36" pc="268437627" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="37" pc="268437790" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="38" pc="268437815" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="39" pc="268437867" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="40" pc="268437983" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="43" pc="268438035" symbol="MainLayout"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGView.mc" lineNum="6" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGView.mc" lineNum="7" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGView.mc" lineNum="8" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGView.mc" lineNum="12" pc="268435509" symbol="onLayout"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGView.mc" lineNum="13" pc="268435513" symbol="onLayout"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGView.mc" lineNum="19" pc="268435551" symbol="onShow"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGView.mc" lineNum="23" pc="268435556" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGView.mc" lineNum="25" pc="268435560" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGView.mc" lineNum="31" pc="268435581" symbol="onHide"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGMenuDelegate.mc" lineNum="6" pc="268435586" symbol="initialize"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGMenuDelegate.mc" lineNum="7" pc="268435590" symbol="initialize"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGMenuDelegate.mc" lineNum="10" pc="268435609" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGMenuDelegate.mc" lineNum="11" pc="268435613" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGMenuDelegate.mc" lineNum="12" pc="268435624" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGMenuDelegate.mc" lineNum="14" pc="268435659" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="12" pc="268435684" symbol="initialize"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="13" pc="268435688" symbol="initialize"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="14" pc="268435721" symbol="initialize"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="17" pc="268435743" symbol="posUpdate"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="18" pc="268435747" symbol="posUpdate"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="19" pc="268435768" symbol="posUpdate"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="20" pc="268435798" symbol="posUpdate"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="21" pc="268435871" symbol="posUpdate"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="24" pc="268435904" symbol="posUpdate"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="26" pc="268435933" symbol="posUpdate"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="30" pc="268436022" symbol="dist"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="31" pc="268436026" symbol="dist"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="32" pc="268436045" symbol="dist"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="34" pc="268436058" symbol="dist"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="37" pc="268436143" symbol="genMob"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="38" pc="268436147" symbol="genMob"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="39" pc="268436214" symbol="genMob"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="40" pc="268436268" symbol="genMob"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="41" pc="268436335" symbol="genMob"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="42" pc="268436389" symbol="genMob"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="43" pc="268436427" symbol="genMob"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="45" pc="268436446" symbol="genMob"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="46" pc="268436454" symbol="genMob"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="47" pc="268436474" symbol="genMob"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="50" pc="268436528" symbol="genMob"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="53" pc="268436556" symbol="genMob"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="56" pc="268436575" symbol="genMob"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="57" pc="268436595" symbol="genMob"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="60" pc="268436649" symbol="genMob"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="63" pc="268436677" symbol="genMob"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="66" pc="268436696" symbol="genMob"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="69" pc="268436738" symbol="setPos"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="70" pc="268436742" symbol="setPos"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="71" pc="268436755" symbol="setPos"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="72" pc="268436817" symbol="setPos"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="74" pc="268436879" symbol="setPos"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="75" pc="268436890" symbol="setPos"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="78" pc="268436920" symbol="setPos"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="81" pc="268436933" symbol="setPos"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="82" pc="268436944" symbol="setPos"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="85" pc="268436974" symbol="setPos"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="88" pc="268436987" symbol="setPos"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="89" pc="268437038" symbol="setPos"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="91" pc="268437080" symbol="setPos"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="97" pc="268437129" symbol="initialize"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="98" pc="268437133" symbol="initialize"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="99" pc="268437143" symbol="initialize"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="100" pc="268437153" symbol="initialize"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="103" pc="268437164" symbol="getAttr"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="104" pc="268437168" symbol="getAttr"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="107" pc="268437224" symbol="setAttr"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="108" pc="268437228" symbol="setAttr"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="109" pc="268437244" symbol="setAttr"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="110" pc="268437260" symbol="setAttr"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="113" pc="268437277" symbol="toString"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGLocationManager.mc" lineNum="114" pc="268437281" symbol="toString"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGDelegate.mc" lineNum="5" pc="268437348" symbol="initialize"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGDelegate.mc" lineNum="6" pc="268437352" symbol="initialize"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGDelegate.mc" lineNum="9" pc="268437371" symbol="onMenu"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGDelegate.mc" lineNum="10" pc="268437375" symbol="onMenu"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGDelegate.mc" lineNum="11" pc="268437459" symbol="onMenu"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGApp.mc" lineNum="6" pc="268437463" symbol="initialize"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGApp.mc" lineNum="7" pc="268437467" symbol="initialize"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGApp.mc" lineNum="11" pc="268437486" symbol="onStart"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGApp.mc" lineNum="15" pc="268437491" symbol="onStop"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGApp.mc" lineNum="19" pc="268437496" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\source\\RPSGApp.mc" lineNum="20" pc="268437500" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\RPSGStatsTracker.mc" lineNum="14" pc="268437568" symbol="initialize"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\RPSGStatsTracker.mc" lineNum="15" pc="268437572" symbol="initialize"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\RPSGStatsTracker.mc" lineNum="16" pc="268437594" symbol="initialize"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\RPSGStatsTracker.mc" lineNum="17" pc="268437616" symbol="initialize"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\RPSGStatsTracker.mc" lineNum="20" pc="268437639" symbol="found"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\RPSGStatsTracker.mc" lineNum="21" pc="268437643" symbol="found"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\RPSGStatsTracker.mc" lineNum="24" pc="268437657" symbol="won"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\RPSGStatsTracker.mc" lineNum="25" pc="268437661" symbol="won"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\RPSGStatsTracker.mc" lineNum="28" pc="268437681" symbol="lost"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\RPSGStatsTracker.mc" lineNum="29" pc="268437685" symbol="lost"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\RPSGStatsTracker.mc" lineNum="32" pc="268437705" symbol="trackActivityPoints"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\RPSGStatsTracker.mc" lineNum="33" pc="268437709" symbol="trackActivityPoints"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\RPSGStatsTracker.mc" lineNum="34" pc="268437732" symbol="trackActivityPoints"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\RPSGStatsTracker.mc" lineNum="35" pc="268437748" symbol="trackActivityPoints"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\RPSGStatsTracker.mc" lineNum="36" pc="268437758" symbol="trackActivityPoints"/>
+<entry filename="C:\\Users\\Peachcobbler\\Desktop\\RPSG\\RPSGStatsTracker.mc" lineNum="37" pc="268437768" symbol="trackActivityPoints"/>
+<entry filename="Rez" lineNum="15" pc="268437779" symbol="initialize"/>
+<entry filename="Rez" lineNum="16" pc="268437783" symbol="initialize"/>
+<entry filename="Rez" lineNum="17" pc="268437801" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268437853" symbol="initialize"/>
+<entry filename="Rez" lineNum="34" pc="268437906" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="36" pc="268437910" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="37" pc="268438073" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="38" pc="268438098" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="39" pc="268438150" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="40" pc="268438266" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="43" pc="268438318" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388644" symbol="System"/>
-<entry id="9" object="true" symbol="RPSGMenuDelegate"/>
+<entry id="14" object="true" symbol="RPSGStatsTracker"/>
+<entry id="10" object="true" symbol="RPSGMenuDelegate"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389349" symbol="justification"/>
-<entry id="8" object="true" symbol="RPSGView"/>
+<entry id="9" object="true" symbol="RPSGView"/>
+<entry field="true" id="20" symbol="ROCK"/>
 <entry field="true" id="8388611" symbol="Toybox"/>
-<entry id="31" object="true" symbol="MainMenu"/>
+<entry id="41" object="true" symbol="MainMenu"/>
 <entry id="8388770" module="true" symbol="Strings"/>
 <entry id="8388783" method="true" symbol="toString"/>
 <entry id="8389305" symbol="lat"/>
-<entry id="25" method="true" symbol="getAttr"/>
+<entry id="35" method="true" symbol="getAttr"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
-<entry id="12" object="true" symbol="RPSGApp"/>
-<entry id="32" method="true" symbol="MainLayout"/>
+<entry id="13" object="true" symbol="RPSGApp"/>
+<entry id="42" method="true" symbol="MainLayout"/>
 <entry id="8388769" module="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
-<entry id="15" symbol="TURN_SPEED"/>
+<entry id="25" symbol="TURN_SPEED"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="36" symbol="AppName"/>
-<entry id="23" symbol="long"/>
+<entry field="true" id="46" symbol="AppName"/>
+<entry id="18" method="true" symbol="lost"/>
+<entry id="33" symbol="long"/>
 <entry id="8389080" method="true" symbol="onMenu"/>
-<entry id="38" symbol="item_2"/>
-<entry id="37" symbol="item_1"/>
+<entry id="49" symbol="item_2"/>
+<entry id="48" symbol="item_1"/>
 <entry id="8388641" symbol="Math"/>
-<entry field="true" id="30" symbol="LauncherIcon"/>
-<entry id="20" method="true" symbol="setPos"/>
-<entry id="14" symbol="MOVE_SPEED"/>
-<entry field="true" id="34" symbol="menu_label_2"/>
-<entry field="true" id="33" symbol="menu_label_1"/>
-<entry id="26" method="true" symbol="setAttr"/>
+<entry field="true" id="40" symbol="LauncherIcon"/>
+<entry id="30" method="true" symbol="setPos"/>
+<entry id="24" symbol="MOVE_SPEED"/>
+<entry field="true" id="44" symbol="menu_label_2"/>
+<entry field="true" id="43" symbol="menu_label_1"/>
+<entry field="true" id="22" symbol="SCISSOR"/>
+<entry id="36" method="true" symbol="setAttr"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry id="8389065" symbol="locY"/>
 <entry id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" symbol="Drawables"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry id="24" symbol="dir"/>
-<entry field="true" id="29" symbol="id_monkey"/>
+<entry id="17" method="true" symbol="won"/>
+<entry id="34" symbol="dir"/>
+<entry field="true" id="39" symbol="id_monkey"/>
 <entry id="8389348" symbol="font"/>
 <entry id="8389347" symbol="color"/>
-<entry id="19" method="true" symbol="genMob"/>
+<entry id="29" method="true" symbol="genMob"/>
+<entry id="16" method="true" symbol="found"/>
 <entry id="8389109" method="true" symbol="onMenuItem"/>
-<entry id="13" symbol="MAX_DIST"/>
-<entry id="21" object="true" symbol="Mob"/>
-<entry id="28" module="true" symbol="Layouts"/>
+<entry id="23" symbol="MAX_DIST"/>
+<entry id="31" object="true" symbol="Mob"/>
+<entry id="38" module="true" symbol="Layouts"/>
 <entry id="8388642" symbol="Position"/>
-<entry field="true" id="35" symbol="prompt"/>
-<entry id="17" method="true" symbol="posUpdate"/>
+<entry field="true" id="45" symbol="prompt"/>
+<entry id="27" method="true" symbol="posUpdate"/>
 <entry id="8389125" method="true" symbol="onHide"/>
 <entry id="8389345" symbol="rezId"/>
-<entry id="16" symbol="mobs"/>
+<entry field="true" id="21" symbol="PAPER"/>
+<entry id="26" symbol="mobs"/>
 <entry id="8389346" symbol="text"/>
 <entry id="8389063" symbol="identifier"/>
-<entry id="18" method="true" symbol="dist"/>
-<entry id="11" object="true" symbol="RPSGDelegate"/>
-<entry id="27" module="true" symbol="Menus"/>
+<entry id="28" method="true" symbol="dist"/>
+<entry id="12" object="true" symbol="RPSGDelegate"/>
+<entry id="47" symbol="lm"/>
+<entry id="19" method="true" symbol="trackActivityPoints"/>
+<entry id="37" module="true" symbol="Menus"/>
+<entry id="8388936" symbol="info"/>
 <entry id="8388772" module="true" symbol="Fonts"/>
-<entry id="10" object="true" symbol="RPSGLocationManager"/>
+<entry id="11" object="true" symbol="RPSGLocationManager"/>
+<entry id="15" symbol="stats"/>
 </symbolTable>
 <localVars>
-<entry endPc="268436070" name="playPos" stackId="3" startPc="268435954"/>
-<entry endPc="268436070" name="mobPos" stackId="4" startPc="268435954"/>
-<entry endPc="268436665" name="dir" stackId="4" startPc="268436075"/>
-<entry endPc="268436665" name="playPos" stackId="5" startPc="268436075"/>
-<entry endPc="268436665" name="mobPos" stackId="6" startPc="268436075"/>
-<entry endPc="268436665" name="longDiff" stackId="3" startPc="268436075"/>
-<entry endPc="268436665" name="latDiff" stackId="2" startPc="268436075"/>
-<entry endPc="268437056" name="attr" stackId="2" startPc="268436670"/>
-<entry endPc="268437056" name="newLat" stackId="3" startPc="268436670"/>
-<entry endPc="268437056" name="newLong" stackId="4" startPc="268436670"/>
-<entry endPc="268437056" name="newDir" stackId="5" startPc="268436670"/>
-<entry endPc="268438062" name="rez_cmp_local_bitmap_TY0JIO0W3X_fontHeight" stackId="3" startPc="268437627"/>
-<entry endPc="268438062" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268437627"/>
-<entry endPc="268438062" name="rez_cmp_local_bitmap_TY0JIO0W3X" stackId="2" startPc="268437627"/>
+<entry endPc="268436142" name="playPos" stackId="3" startPc="268436026"/>
+<entry endPc="268436142" name="mobPos" stackId="4" startPc="268436026"/>
+<entry endPc="268436737" name="dir" stackId="4" startPc="268436147"/>
+<entry endPc="268436737" name="playPos" stackId="5" startPc="268436147"/>
+<entry endPc="268436737" name="mobPos" stackId="6" startPc="268436147"/>
+<entry endPc="268436737" name="longDiff" stackId="3" startPc="268436147"/>
+<entry endPc="268436737" name="latDiff" stackId="2" startPc="268436147"/>
+<entry endPc="268437128" name="attr" stackId="2" startPc="268436742"/>
+<entry endPc="268437128" name="newLat" stackId="3" startPc="268436742"/>
+<entry endPc="268437128" name="newLong" stackId="4" startPc="268436742"/>
+<entry endPc="268437128" name="newDir" stackId="5" startPc="268436742"/>
+<entry endPc="268437778" name="moderate" stackId="3" startPc="268437709"/>
+<entry endPc="268437778" name="minutes" stackId="1" startPc="268437709"/>
+<entry endPc="268437778" name="vigorous" stackId="4" startPc="268437709"/>
+<entry endPc="268437778" name="total" stackId="2" startPc="268437709"/>
+<entry endPc="268438345" name="rez_cmp_local_bitmap_LWVH5CSLZ7" stackId="2" startPc="268437910"/>
+<entry endPc="268438345" name="rez_cmp_local_bitmap_LWVH5CSLZ7_fontHeight" stackId="3" startPc="268437910"/>
+<entry endPc="268438345" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268437910"/>
 </localVars>
 <annotations/>
 <functions>
@@ -248,6 +282,27 @@
 <documentation/>
 </functionEntry>
 <functionEntry name="getInitialView" parent="RPSGApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="RPSGStatsTracker">
+<documentation/>
+</functionEntry>
+<functionEntry name="found" parent="RPSGStatsTracker">
+<param id="item"/>
+<param id="initStat"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="won" parent="RPSGStatsTracker">
+<param id="item"/>
+<param id="opponentsStat"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="lost" parent="RPSGStatsTracker">
+<param id="item"/>
+<param id="opponentsStat"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="trackActivityPoints" parent="RPSGStatsTracker">
 <documentation/>
 </functionEntry>
 <functionEntry name="initialize" parent="MainMenu">
