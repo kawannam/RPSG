@@ -6,7 +6,7 @@ class RPSGView extends Ui.View {
         View.initialize();
     }
 
-    // Load your resources here
+    // Load your resources here 
     function onLayout(dc) {
         setLayout(Rez.Layouts.MainLayout(dc));
     }
