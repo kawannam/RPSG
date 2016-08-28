@@ -5,7 +5,6 @@ class RPSGView extends Ui.View {
 
     function initialize() {
         View.initialize();
-        lm = new RPSGLocationManager();
     }
 
     // Load your resources here
