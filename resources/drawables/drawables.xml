@@ -3,4 +3,7 @@
     <bitmap id="Paper" filename="paper.png" />
     <bitmap id="Rock" filename="rock.png" />
     <bitmap id="Scissors" filename="scissors.png" />
+    <drawable-list id="GameDrawable" background="Gfx.COLOR_BLACK">
+        <shape type="rectangle" color="Gfx.COLOR_DK_GRAY" x="0" y="0" width="fill" height="4" />
+    </drawable-list>
 </drawables> 

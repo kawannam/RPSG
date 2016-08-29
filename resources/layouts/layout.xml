@@ -1,4 +1,11 @@
-<layout id="MainLayout">
-    <label x="center" y="5" text="@Strings.prompt" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
-    <bitmap id="id_monkey" x="center" y="30" filename="../drawables/monkey.png" />
-</layout>
+<layouts>
+    <layout id="MainLayout">
+
+    </layout>
+
+    <layout id="GameLayout">
+        <drawable id="GameDrawable"/>
+        <label id="topThing" x="center" y="45" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_MEDIUM" text="@Strings.first"/>
+        <bitmap id="rock" x="15" y="0" filename="../images/rock.png" />
+    </layout>
+</layouts>
