@@ -1,3 +1,6 @@
 <drawables>
     <bitmap id="LauncherIcon" filename="launcher_icon.png" />
-</drawables>
+    <bitmap id="Paper" filename="paper.png" />
+    <bitmap id="Rock" filename="rock.png" />
+    <bitmap id="Scissors" filename="scissors.png" />
+</drawables> 
